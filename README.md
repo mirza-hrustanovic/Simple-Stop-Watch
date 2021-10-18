@@ -1,2 +1,2 @@
 # Simple-Stop-Watch
-It just simple stop watch
+Stop Watch have three button to start, stop and reset.
